@@ -1,4 +1,4 @@
-I'm a senior .Net Solution Architect/Full Stack Developer dedicated to delivering quality software by practicing Agile Processes, Test Driven Development, SOLID principles and a healthy dose of DevOps.
+I'm a .Net Solution Architect/Full Stack Developer dedicated to delivering quality software by practicing Agile Processes, Test Driven Development, SOLID principles, a healthy dose of DevOps and dad-jokes.
 
 [https://www.henrikbecker.net](https://www.henrikbecker.net)
 
