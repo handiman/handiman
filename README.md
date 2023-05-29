@@ -4,6 +4,11 @@ Henrik has been running his own 1 man consulting practice since 2017 and is curr
 
 Full profile available at [https://www.henrikbecker.net](https://www.henrikbecker.net)
 
+
+<img alt="Most Used Languages" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=handiman&layout=compact&langs_count=8&hide_progress=true" />
+
+<img alt="Henrik's GitHub Stats" align="center" src="https://github-readme-stats.vercel.app/api?username=handiman&show_icons=true&theme=transparent" />
+
 <!---
 handiman/handiman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
