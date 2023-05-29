@@ -1,6 +1,8 @@
-I'm a .Net Solution Architect/Full Stack Developer dedicated to delivering quality software by practicing Agile Processes, Test Driven Development, SOLID principles, a healthy dose of DevOps and dad-jokes.
+Experienced .Net developer and solution architect dedicated to delivering quality software practicing Agile Processes, Test Driven Development, applying SOLID principles and a healthy dose of dad-jokes.
 
-[https://www.henrikbecker.net](https://www.henrikbecker.net)
+Henrik has been running his own 1 man consulting practice since 2017 and is currently on a consulting assignment for [Betsson Group](https://www.betssongroup.com/).
+
+Full profile available at [https://www.henrikbecker.net](https://www.henrikbecker.net)
 
 <!---
 handiman/handiman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
