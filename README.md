@@ -1,6 +1,6 @@
 Henrik Becker is an experienced .Net developer and solution architect dedicated to delivering quality software practicing Agile Processes, Test Driven Development, applying SOLID principles and a healthy dose of dad-jokes.
 
-Henrik has been running his own 1 man consulting practice since 2017 and is currently on a consulting assignment for [Betsson Group](https://www.betssongroup.com/).
+Beyond having run his own 1 man consulting practice since 2017 Henrik is currently employed at [Betsson Group](https://www.betssongroup.com/).
 
 Full profile available at [https://www.henrikbecker.net](https://www.henrikbecker.net)
 
