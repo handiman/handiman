@@ -1,315 +1,1642 @@
 {
-  "@context": "https://schema.org",
-  "@type": "Person",
-  "theme": "alice",
   "name": "Henrik Becker",
-  "jobTitle": "Senior Software Engineer",
-  "description": "Henrik Becker is an experienced .Net developer and solution architect dedicated to delivering quality software practicing Agile Processes, Test Driven Development, applying SOLID principles and a healthy dose of dad-jokes.\n",
+  "givenName": "Henrik",
+  "familyName": "Becker",
   "image": "https://www.henrikbecker.net/assets/img/landscape-800x534.jpg",
+  "description": "Henrik started working with software development in 1999, during the IT boom in Stockholm. He is a senior backend consultant who has worked a lot with system integration, and has used every major version of .NET and ASP.NET, from Web Forms to today's APIs. He focuses on backend development, automation and integration, with clean code built on SOLID principles.",
+  "nationality": "Swedish",
+  "jobTitle": "Senior .NET Consultant",
+  "telephone": "+46 (0)73 422 83 43",
+  "email": "henrik@becker-consulting.se",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Lidingö",
+    "addressRegion": "Stockholm",
+    "addressCountry": "SE"
+  },
+  "birthDate": "1969-06-23",
   "url": "https://www.henrikbecker.net",
   "sameAs": [
     "https://github.com/handiman",
-    "https://www.linkedin.com/in/prettygoodprogrammer/"
+    "https://www.linkedin.com/in/prettygoodprogrammer",
+    "https://semantic.cv/handiman"
   ],
   "knowsLanguage": [
     "Swedish",
     "English"
-  ], 
-  "knowsAbout": [
-    "Domain Driven Design",
-    "Solution Architecture",
-    "System Integration",
-    "Event Sourcing",
-    "Event Driven Systems",
-    "Azure",
-    "Node",
-    "SOLID",
-    "Agile Methodologies",
-    "CI/CD"
-  ],
-  "skills": [
-    ".NET",
-    ".NET Aspire",
-    "Microsoft Orleans",
-    "Node",
-    "Specification by Example",
-    "GitHub Actions",
-    "Octopus Deploy",
-    "Azure DevOps",
-    "C#",
-    "TypeScript",
-    "JavaScript"
-  ],
-  "hasCertification": [
-    {
-      "@type": "Certification",
-      "name": "Microsoft Certified: Azure Developer Associate",
-      "issuedBy": "Microsoft",
-      "validFrom": "2021-06-24"
-    },
-    {
-      "@type": "Certification",
-      "name": "MCSA: Web Applications - Certified 2016",
-      "issuedBy": "Microsoft",
-      "validFrom": "2016-09-26"
-    }
-  ],
-  "alumniOf": [
-    {
-      "@type": "Role",
-      "alumniOf": {
-        "@type": "EducationalOrganization",
-        "name": "Komvux Lidingö"
-      },
-      "description": "Municipal adult education",
-      "startDate": "1995-08-01",
-      "endDate": "1997-06-18"
-    },
-    {
-      "@type": "Role",
-      "alumniOf": {
-        "@type": "EducationalOrganization",
-        "name": "Kulturama"
-      },
-      "description": "Music",
-      "startDate": "1992-08-01",
-      "endDate": "1993-08-01"
-    }
   ],
   "worksFor": [
     {
       "@type": "Role",
-      "roleName": "Lead Developer",
-      "description": "A schema.org‑first CV generator for developers built with Nodejs and Cloudflare workers.",
-      "startDate": "2026-03-26",
-      "worksFor": {
-        "@type": "Project",
-        "name": "Semantic CV"
-      }
-    },
-    {
-      "@type": "Role",
-      "roleName": "IT Consultant, Senior Software Engineer",
-      "description": "Strengthened architecture, performance, and team capability across Betsson’s gamification systems through hands‑on engineering and candidate assessments.",
-      "startDate": "2021-10-21",
-      "endDate": "2025-12-05",
-      "worksFor": {
-        "@type": "Project",
-        "name": "Betsson Group"
-      }
-    },
-    {
-      "@type": "Role",
-      "roleName": "IT-Consultant, Fullstack Developer",
-      "description": "Modernized key parts of Adlibris’ customer platform during the storefront rebuild.(Open ID authentication, APIs, React migration, and CMS modeling)",
-      "startDate": "2021-02-22",
-      "endDate": "2021-10-10",
-      "worksFor": {
-        "@type": "Project",
-        "name": "Adlibris Storefront"
-      }
-    },
-    {
-      "@type": "Role",
-      "roleName": "Fullstack Developer, DevOps",
-      "description": "Delivered backend, frontend, and DevOps improvements across the Film2Home and Plejmo platforms, including API design and automated deployment.",
-      "startDate": "2014-11-03",
-      "endDate": "2017-07-05",
-      "worksFor": {
-        "@type": "Project",
-        "name": "Film2Home/Plejmo"
-      }
-    },
-    {
-      "@type": "Role",
-      "roleName": "IT Consultant",
-      "description": "Providing Fullstack .Net and DevOps expertise on a freelance basis in the Stockholm urban area.\nBetsson Group\nAdlibris\nNorconsult Astando\nOpen Payments\nInsplanet\nSvea Ekonomi",
+      "roleName": "Owner",
       "startDate": "2017-07-06",
+      "endDate": "present",
+      "description": "Backend, integration and DevOps assignments as an independent consultant in Stockholm. Assignments listed below from October 2017 onward were delivered as a contractor through Henrik Becker Consulting AB, unless noted otherwise.",
       "worksFor": {
         "@type": "Organization",
         "name": "Henrik Becker Consulting AB"
-      }
+      },
+      "keywords": [
+        {
+          "@type": "DefinedTerm",
+          "name": "C#"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": ".NET"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "ASP.NET"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "GitHub Actions"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Azure API Management"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Cloudflare Workers"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Cloudflare D1"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Cloudflare R2"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Durable Objects"
+        }
+      ]
     },
     {
       "@type": "Role",
       "roleName": "Senior Software Engineer",
-      "description": "I joined Betsson as a consultant and later transitioned directly into a full‑time role as a Senior Software Engineer. I worked in the Player Rewards & Gamification value stream, focusing on three services: Tournaments, Loyalty, and Levels. Tournaments was where I spent most of my time. Loyalty was a legacy system, and Levels was the newer service intended to replace it.",
-      "startDate": "2023-12-18",
+      "startDate": "2021-10-11",
       "endDate": "2025-12-05",
+      "description": "Global online gaming & sportsbook enterprise. Worked in the Player Rewards & Gamification value stream across the services Tournaments, Loyalty, and Levels. Joined as a consultant via Henrik Becker Consulting AB; converted to permanent employment 2023-12; left 2025-12 and went back to freelancing\n\n- Design, development, and maintenance of event-sourced, gamification-oriented applications with real-time Kafka message processing, RESTful APIs, and Blazor-based back-office tools\n- Kafka message processing optimization, resulting in a nearly 1000% increase in throughput for the Tournaments application\n- Proofs of concept for new systems and features\n- Close collaboration with Enterprise Architect and Engineering Manager to ensure architectural and regulatory compliance\n- Mentored junior developers through knowledge-sharing sessions and pair programming, and took part in technical interviews",
       "worksFor": {
         "@type": "Organization",
-        "name": "Betsson Group AB"
-      }
+        "name": "Betsson"
+      },
+      "keywords": [
+        {
+          "@type": "DefinedTerm",
+          "name": "CQRS"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Domain Driven Desing"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Event Modeling"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Event Sourcing"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": ".NET Aspire"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Microsoft Orleans"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Micro Services"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Docker"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "GitHub Actions"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Octopus Deploy"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "C#"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": ".NET 5-9"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Asp.NET Core"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Blazor"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "SQL Server"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "PostgreSQL"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Kafka"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Rest APIs"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "WCF"
+        }
+      ]
     },
     {
       "@type": "Role",
       "roleName": "Fullstack Developer",
-      "description": "Continued development of the Video on Demand site Plejmo.\nDesigned version 2 of Plejmo's Rest API.\nContinued improving the CI/CD processes I set up at Film2Home",
-      "startDate": "2015-09-14",
-      "endDate": "2017-07-05",
+      "startDate": "2021-02-22",
+      "endDate": "2021-10-10",
+      "description": "Adlibris is the largest online bookstore in the Nordics with a growing ecosystem of digital services and applications. In 2021, I joined the Storefront team as a Fullstack Developer to support the ongoing modernization of the customer‑facing platform.\n\n- OpenID/Oauth service implemented with Identity Server 4 for the new Adlibris app under development.\n- Account management API built with Asp.NET Core and .NET 5 hosted on Azure.\n- Contentful CMS content modeling and integration.",
       "worksFor": {
         "@type": "Organization",
-        "name": "Magine TV AB"
-      }
+        "name": "Adlibris"
+      },
+      "keywords": [
+        {
+          "@type": "DefinedTerm",
+          "name": "C#"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Asp.NET Core"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Asp.NET MVC"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "SQL Server"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "JavaScript"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "React"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "jQuery"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Identity Server (OpenID/Oauth)"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Azure App Services"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Octopus Deploy"
+        }
+      ]
+    },
+    {
+      "@type": "Role",
+      "roleName": "Fullstack Developer, DevOps",
+      "startDate": "2020-10-19",
+      "endDate": "2021-01-15",
+      "description": "Fullstack development and legacy modernization for Norconsult Astando, spanning new functionality, deployment automation, and code quality improvements.\n\n- Automated deployment using Octopus Deploy.\n- Improved code readability and testability.\n- Implemented new functionality across legacy systems.",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Norconsult Astando"
+      },
+      "keywords": [
+        {
+          "@type": "DefinedTerm",
+          "name": "C#"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Asp.NET Core"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Asp.NET Web Forms"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "WCF"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "TypeScript"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "JavaScript"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "KnockoutJS"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "TeamCity"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Octopus Deploy"
+        }
+      ]
     },
     {
       "@type": "Role",
       "roleName": "Fullstack Developer",
-      "description": "Development of the Video on Demand sites Film2Home and Plejmo.\nDesigned version 1 of Plejmo's Rest API.\nAutomated deployment thus eliminating the human factor and reducing deployment time from 1 hour to a couple of minutes.\nIncreased performance by refactoring from a traditional n-tier architecture to a service bus architcure thus offloading the front end sites.",
-      "startDate": "2014-11-03",
-      "endDate": "2015-08-27",
+      "startDate": "2019-12-02",
+      "endDate": "2020-06-30",
+      "description": "Open Payments provides a PSD2‑compliant platform that allows FinTech companies, e‑commerce businesses, and other financial actors to integrate with European banks through a single unified API.\n\n- Automated customer onboarding process using a React SPA with a .NET Core backend that integrated with Dynamics CRM and a variety of Azure resources.\n- Improved test automation by making functional/integration tests require less manual intervention.\n- Reduced deployment time thanks to improved test automation.",
       "worksFor": {
         "@type": "Organization",
-        "name": "Film2Home AB"
-      }
-    },
-    {
-      "@type": "Role",
-      "roleName": "IT Consultant",
-      "description": "Resource consulting at Organizations in Stockholm CBD.\nDevelopment of Qbranch Competence Manager used for finding the right consultant for an assignment.",
-      "startDate": "2014-04-28",
-      "endDate": "2014-09-30",
-      "worksFor": {
-        "@type": "Organization",
-        "name": "Qbranch Stockholm AB"
-      }
+        "name": "Open Payments"
+      },
+      "keywords": [
+        {
+          "@type": "DefinedTerm",
+          "name": "C#"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Asp.NET Core"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "React"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Redux"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "TypeScript"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Azure functions"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Azure DevOps"
+        }
+      ]
     },
     {
       "@type": "Role",
       "roleName": "Lead Developer",
-      "description": "Reduced complexity through refactoring.\nIntroduced living documentation in the form of executable specifications.\nGuided development teams towards a more agile approached software development with the product owner, functional analysts, testers and developers working closely together during the entire development cycle.",
-      "startDate": "2012-03-12",
-      "endDate": "2013-11-14",
+      "startDate": "2019-01-07",
+      "endDate": "2019-06-13",
+      "description": "Senior developer engagement stabilizing Insplanet after the departure of their architect and lead developer, focused on documentation, deployment reliability, and CI simplification.\n\n- Implemented zero-downtime deployment.\n- Simplified the CI process using Azure DevOps build pipelines.",
       "worksFor": {
         "@type": "Organization",
-        "name": "Wasa Kredit AB"
-      }
+        "name": "Insplanet"
+      },
+      "keywords": [
+        {
+          "@type": "DefinedTerm",
+          "name": "C#"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": ".NET Core"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "React"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Azure DevOps"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Octopus Deploy"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Asp.NET MVC"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Asp.NET Web Api"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "TypeScript"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "jQuery"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Git"
+        }
+      ]
     },
     {
       "@type": "Role",
-      "roleName": "IT Consultant",
-      "description": "IT Consultant with assignments at Länsförsäkringar, Cale Access, Cash Guard, Tradera and Astando.",
-      "startDate": "2008-01-28",
-      "endDate": "2012-03-09",
+      "roleName": "Fullstack Developer, DevOps",
+      "startDate": "2018-04-18",
+      "endDate": "2018-11-30",
+      "description": "Automated deployment for Norconsult Astando's IsyRoad project, cutting deployment time from about 45 to about 5 minutes per instance.\n\n- Automated deployment for the IsyRoad project using Octopus Deploy.\n- Reduced deployment time from around 45 minutes to about 5 minutes per application instance.\n- Virtually eliminated deployment-related errors.",
       "worksFor": {
         "@type": "Organization",
-        "name": "Avega Group AB"
-      }
+        "name": "Norconsult Astando"
+      },
+      "keywords": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Octopus Deploy"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "TeamCity"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "C#"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": ".NET Core"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "WCF"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "REST API"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "NHibernate"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Git"
+        }
+      ]
+    },
+    {
+      "@type": "Role",
+      "roleName": "Backend Developer",
+      "startDate": "2017-10-11",
+      "endDate": "2018-04-11",
+      "description": "First freelance engagement, focused on backend development for the multi-market payment solution \"Svea Checkout,\" with an emphasis on testing and documentation practices.\n\n- Built the \"Svea Checkout\" payment solution, rolled out across Sweden, Norway, and Finland.\n- Improved API documentation by automating most of its generation.\n- Improved test readability by rewriting tests as executable specifications.",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Svea Ekonomi"
+      },
+      "keywords": [
+        {
+          "@type": "DefinedTerm",
+          "name": "C#"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Asp.NET Web Api"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "CQRS"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "REST API"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "TDD"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Specification By Example"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Continuous Integration"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Octopus Deploy"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Entity Framework"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "NuGet"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Micro Services"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Team Foundation Server"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "DocNet"
+        }
+      ]
     },
     {
       "@type": "Role",
       "roleName": "Fullstack Developer",
-      "description": "Fullstack Developer at hitta.se",
-      "startDate": "2007-12-01",
-      "endDate": "2008-01-01",
+      "startDate": "2015-09-14",
+      "endDate": "2017-07-05",
+      "description": "Continued development of the Film2Home and Plejmo services after Magine TV's acquisition.\n\n- Continued development of the Video on Demand site Plejmo.\n- Designed version 2 of Plejmo's Rest API.\n- Continued improving the CI/CD processes set up at Film2Home",
       "worksFor": {
         "@type": "Organization",
-        "name": "Aftonbladet Tillväxtteknik 2 AB"
-      }
+        "name": "MagineTV"
+      },
+      "keywords": [
+        {
+          "@type": "DefinedTerm",
+          "name": "C#"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Asp.NET Web Api"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Azure Service Bus"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "CQRS"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Octopus Deploy"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Asp.NET MVC"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": ".NET Framework"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "TDD"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "REST API"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "WCF"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Continuous Integration"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "JavaScript"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "jQuery"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "KnockoutJS"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "NHibernate"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Dapper"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "SQL Server"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Micro Services"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "CSS"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "HTML"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "EPiServer"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "IIS"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Git"
+        }
+      ]
+    },
+    {
+      "@type": "Role",
+      "roleName": "Fullstack Developer, DevOps",
+      "startDate": "2014-11-03",
+      "endDate": "2015-09-01",
+      "description": "Fullstack development of the Video On Demand (VOD) services Film2home and Plejmo based on Asp.NET MVC and EpiServer. DevOps tasks including configuring web sites, configuring automated builds and setting up automated deployment.\n\n- Automated deployment, cutting deployment time from about an hour to under two minutes.\n- Increased performance by refactoring from a traditional n-tier architecture to a service bus architecture thus offloading the front end sites.\n- Designed Plejmo's REST API.",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Film2Home"
+      },
+      "keywords": [
+        {
+          "@type": "DefinedTerm",
+          "name": "C#"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": ".NET Framework"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Asp.NET MVC"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Asp.NET Web Api"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "NHibernate"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "SQL Server"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "EPiServer"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "CQRS"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Micro Services"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Rest APIs"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Azure Service Bus"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "WCF"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "JavaScript"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "jQuery"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "KnockoutJS"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Octopus Deploy"
+        }
+      ]
+    },
+    {
+      "@type": "Role",
+      "roleName": "Backend Developer",
+      "startDate": "2014-06-24",
+      "endDate": "2014-09-26",
+      "description": "Maintenance of a legacy solution for managing requisitions at Sweden's public employment services.\n\n- Maintained a legacy requisition management system for Sweden's public employment service.",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Arbetsförmedlingen (via Qbranch)"
+      },
+      "keywords": [
+        {
+          "@type": "DefinedTerm",
+          "name": "VB.NET"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "WinForms"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "WebForms"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "WCF"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "WebServices"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Oracle"
+        }
+      ]
+    },
+    {
+      "@type": "Role",
+      "roleName": "Fullstack Developer",
+      "startDate": "2014-04-28",
+      "endDate": "2014-06-23",
+      "description": "In-house application where consultants managed their CVs and sales matched consultants to assignments.\n\n- Extended an in-house application for consultant CVs and matching consultants to assignments, built on ASP.NET MVC and hosted on Windows Azure.",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Qbranch Competence Manager (via Qbranch)"
+      },
+      "keywords": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Asp.NET MVC"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "HTML5"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "jQuery"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "CSS3"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "C#"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "REST API"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "EntityFramework 6"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Test Driven Development"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Continuous Integration"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Git"
+        }
+      ]
+    },
+    {
+      "@type": "Role",
+      "roleName": "Lead Developer",
+      "startDate": "2012-03-12",
+      "endDate": "2013-11-14",
+      "description": "Led development and process improvement at Wasa Kredit, reducing technical debt and introducing a more iterative, example-driven way of working.\n\n- Refactored legacy code, mainly with the Strategy pattern, and wrote rewrite proposals for components too coupled to refactor.\n- Guided the team toward an iterative way of working, bringing product owners, analysts, testers, and developers together throughout the development cycle.\n- Introduced living documentation through executable specifications.",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Wasa Kredit"
+      },
+      "keywords": [
+        {
+          "@type": "DefinedTerm",
+          "name": "C#"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "WinForms"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Asp.NET MVC4"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "HTML"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "CSS3"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "WCF"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "TDD"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "BDD"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "SpecFlow"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Continuous Integration"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Team Foundation Server"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "XML"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "XSLT"
+        }
+      ]
+    },
+    {
+      "@type": "Role",
+      "roleName": "System Developer",
+      "startDate": "2011-09-01",
+      "endDate": "2012-03-09",
+      "description": "Cale is one of the world’s leading manufacturers of parking meters. I joined the team working on Cale Web Office 2, specifically the TrueUp subsystem — a set of financial rules governing compensation between the City of Chicago and Chicago Parking Meters. The agreement between the two parties spans 80 years, which meant the system needed to handle not only complex business rules but also future data volumes on a massive scale.\n\n- Implemented and verified complex financial rules within the TrueUp subsystem, governing an 80-year compensation agreement.\n- Applied test-driven development and SpecFlow to express business rules as executable specifications.\n- Used NInject for dependency injection to improve testability.",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Cale Access AB (via Avega Group)"
+      },
+      "keywords": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Test Driven Development"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "SpecFlow"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "NInject"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "C#"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "WCF"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Asp.NET Web Forms"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Continuous Integration"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Team Foundation Server"
+        }
+      ]
+    },
+    {
+      "@type": "Role",
+      "roleName": "System Developer",
+      "startDate": "2011-06-01",
+      "endDate": "2011-09-01",
+      "description": "Introduced behavior-driven development practices on CashGuard's StoreManager system, turning existing user stories into executable specifications.\n\n- Introduced behavior-driven development, turning existing user stories into executable specifications with SpecFlow.\n- Laid the foundation for automated regression testing and living documentation.",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "CashGuard (via Avega Group)"
+      },
+      "keywords": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Specification by Example"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "SpecFlow"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "C#"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "WCF"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Asp.NET MVC"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "WiX"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "SQL Server"
+        }
+      ]
+    },
+    {
+      "@type": "Role",
+      "roleName": "System Developer",
+      "startDate": "2009-09-01",
+      "endDate": "2011-05-01",
+      "description": "Backend development, database migration, and performance work on Länsförsäkringar's payment platform, including a move from Oracle to SQL Server.\n\n- Led the migration of the payment platform's database from Oracle to SQL Server.\n- Built out a WCF-based payment platform, adding support for automated payments and payment prompts.\n- Investigated and improved performance across the platform and its connecting systems.",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Länsförsäkringar (via Avega Group)"
+      },
+      "keywords": [
+        {
+          "@type": "DefinedTerm",
+          "name": "VB.NET"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "WCF"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "WPF"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Oracle"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "SQL Server"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Team Foundation Server"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Continuous Integration"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Test Driven Development"
+        }
+      ]
+    },
+    {
+      "@type": "Role",
+      "roleName": "System Developer",
+      "startDate": "2009-08-01",
+      "endDate": "2009-08-31",
+      "description": "WPF-based sales support system for managing articles and campaigns published on tradera.se. This project was developed in-house at Avega Group AB.\n\n- Contributed to a WPF-based sales support system for managing articles and campaigns on tradera.se.\n- Delivered the project as part of an internal team at Avega Group.",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Tradera (via Avega Group)"
+      },
+      "keywords": [
+        {
+          "@type": "DefinedTerm",
+          "name": "C#"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "WCF"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "WPF"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "NHibernate"
+        }
+      ]
+    },
+    {
+      "@type": "Role",
+      "roleName": "System Developer",
+      "startDate": "2008-02-28",
+      "endDate": "2009-05-01",
+      "description": "Client/server application for importing and presenting traffic measurement data for Stockholm and Gothenburg.\n\n- Extended a WinForms-based client/server application for importing and presenting traffic measurement data for Stockholm and Gothenburg.\n- Implemented data access with Oracle and NHibernate, using Spring.NET for dependency injection.\n- Applied test-driven development and early continuous integration practices.",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Astando (via Avega Group)"
+      },
+      "keywords": [
+        {
+          "@type": "DefinedTerm",
+          "name": "C#"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "WinForms"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Windows Services"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Oracle"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "NHibernate"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Spring.NET"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Test Driven Development"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Continuous Integration"
+        }
+      ]
+    },
+    {
+      "@type": "Role",
+      "roleName": "Fullstack Developer",
+      "startDate": "2006-03-01",
+      "endDate": "2008-02-28",
+      "description": "Fullstack development on hitta.se during a period of rapid growth, spanning public-facing services and internal order systems.\n\n- Fullstack developer on hitta.se, one of Sweden's ten most visited websites at the time.\n- Built \"Trafiknytt\" and \"Väder,\" public traffic and weather services on the map platform.\n- Maintained and extended hitta.se's internal order system.",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Hitta.se (via Qbranch,Inverso,Aftonbladet tillväxtteknik 2 AB)"
+      },
+      "keywords": [
+        {
+          "@type": "DefinedTerm",
+          "name": "C#"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Asp.NET"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "AJAX"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "T-SQL"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "MSMQ"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "XML"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "XSLT"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "XHTML"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "SQL Server"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "IIS"
+        }
+      ]
     },
     {
       "@type": "Role",
       "roleName": "IT Consultant",
-      "description": "Fullstack Developer at hitta.se",
-      "startDate": "2007-04-01",
-      "endDate": "2007-12-01",
+      "startDate": "2006-03-01",
+      "endDate": "2006-03-01",
+      "description": "Brought in to troubleshoot a stalled SQL Server performance issue, followed by a broader database quality review.\n\n- Diagnosed and resolved a stored procedure that had gone from minutes to nearly a full day of runtime.\n- Reviewed database design and operational practices, and recommended improvements.\n- Built a VBScript-based SQL Server inventory tool using WMI.",
       "worksFor": {
         "@type": "Organization",
-        "name": "Inverso International AB"
-      }
+        "name": "ICA Banken (via Qbranch)"
+      },
+      "keywords": [
+        {
+          "@type": "DefinedTerm",
+          "name": "SQL Server"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "T-SQL"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "VBScript"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "XML"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "XSLT"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "WMI"
+        }
+      ]
     },
     {
       "@type": "Role",
       "roleName": "IT Consultant",
-      "description": "Fullstack Developer at hitta.se\nSystem Integration Consultant assignments at Sigtuna Council, ICA Banken, Taxi Stockholm.\nWas the single developer on an identity management project at Sigtuna Council that would become Microsoft's reference project for Microsoft Identity Integration Server.",
-      "startDate": "2005-04-01",
-      "endDate": "2007-04-01",
+      "startDate": "2005-10-01",
+      "endDate": "2006-03-01",
+      "description": "Sole developer on one of Sweden's first Microsoft Identity Integration Server (MIIS) deployments, later used by Microsoft as a reference case.\n\n- Served as the sole developer on a project that became Microsoft's reference case for MIIS.\n- Implemented management agents connecting the client's HR system with eDirectory and Active Directory.\n- Automated creation of GroupWise accounts and Novell server home directories.\n- Wrote rules extensions for attribute flow and joins across directory services.",
       "worksFor": {
         "@type": "Organization",
-        "name": "Qbranch Stockholm AB"
-      }
+        "name": "Sigtuna Council (via Qbranch)"
+      },
+      "keywords": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Identity Management"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Microsoft Identity Integration Server"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "C#"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "SQL Server"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Novell eDirectory"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Active Directory"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "MSMQ"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Novell C API"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "GroupWise Administrative Objects API"
+        }
+      ]
     },
     {
       "@type": "Role",
       "roleName": "IT Consultant",
-      "description": "Web development for Hewlett Packard Sweden",
-      "startDate": "2002-01-01",
-      "endDate": "2005-03-31",
+      "startDate": "2005-07-01",
+      "endDate": "2005-07-31",
+      "description": "Short maintenance engagement on SVT's internal system inventory tool.\n\n- Maintained and troubleshot SVT's internal system inventory tool.",
       "worksFor": {
         "@type": "Organization",
-        "name": "eWork"
-      }
+        "name": "Sveriges Television (via Qbranch)"
+      },
+      "keywords": [
+        {
+          "@type": "DefinedTerm",
+          "name": "VBScript"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "VBA"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "T-SQL"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "SQL Server"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "ASP"
+        }
+      ]
     },
     {
       "@type": "Role",
-      "roleName": "IT Consultant",
-      "description": "Web development for Hewlett Packard Sweden, Compaq, Siemens Medical and IconMedialab's intranet.",
+      "roleName": "Web Developer",
+      "startDate": "2005-05-01",
+      "endDate": "2005-07-01",
+      "description": "CMS migration and legacy system integration for Taxi Stockholm, including low-level protocol work against a Unix-based booking system.\n\n- Migrated Taxi Stockholm's intranet and external website from Spirello to EPiServer.\n- Integrated the new site with the client's Unix-based booking system over a proprietary binary protocol.",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Taxi Stockholm (via Qbranch)"
+      },
+      "keywords": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Asp.NET"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "C#"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "EPiServer 4"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "SQL Server"
+        }
+      ]
+    },
+    {
+      "@type": "Role",
+      "roleName": "Web Developer",
       "startDate": "1999-09-01",
-      "endDate": "2002-01-01",
+      "endDate": "2005-03-31",
+      "description": "Web development across Compaq and HP's Scandinavian and EMEA systems during the Compaq-to-HP transition, spanning classic ASP, EPiServer, and early .NET.\n\n- Built a web-based administration interface for managing HP EMEA customer events and registrations.\n- Built a web-based administration interface for HP's Scandinavian product database.\n- Developed templates for the client's EPiServer-based intranet.\n- Maintained and further developed www.hp.se.",
       "worksFor": {
         "@type": "Organization",
-        "name": "IconMedialab AB"
-      }
+        "name": "Compaq/Hewlett Packard Sweden (via Icon Medialab,eWork)"
+      },
+      "keywords": [
+        {
+          "@type": "DefinedTerm",
+          "name": "C#"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Asp.NET"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "T-SQL"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "SQL Server"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "IIS"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "EPiServer"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "XML"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "XSLT"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "ASP"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "JavaScript"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "VBScript"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "HTML"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "CSS"
+        }
+      ]
     },
     {
       "@type": "Role",
-      "roleName": "IT Consultant",
-      "description": "Developed a document management system based on Visual Basic 5 for Looström & Gelin AB.\nBuilt the company web site based on ASP",
+      "roleName": "Web Developer",
+      "startDate": "2000-01-01",
+      "endDate": "2001-01-01",
+      "description": "QA and supporting colleagues during development and maintenance of Siemens Medical's intranet \"EMPower\".\n\n- Supported development and maintenance of Siemens Medical's global intranet, \"EMPower.\"\n- Performed QA, testing, and verification of new features and updates.\n- Assisted colleagues with debugging and integration issues.",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Siemens Medical (via Icon Medialab)"
+      },
+      "keywords": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Visual Basic 6"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "COM"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "ASP"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "JavaScript"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "XML"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "XSLT"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "CSS"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "HTML"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "SQL Server"
+        }
+      ]
+    },
+    {
+      "@type": "Role",
+      "roleName": "Programmer",
       "startDate": "1998-10-01",
       "endDate": "1999-07-31",
+      "description": "First professional software development assignment, building a document management system in Visual Basic 5.\n\n- Designed and developed a document management system based on Visual Basic 5.\n- Assisted in developing the company website using classic ASP.",
       "worksFor": {
         "@type": "Organization",
-        "name": "Innitek AB"
-      }
+        "name": "Looström & Gelin AB (via Innitek AB)"
+      },
+      "keywords": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Visual Basic 5"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "COM"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "ASP"
+        }
+      ]
     },
     {
       "@type": "Role",
       "roleName": "PC Technician",
       "startDate": "1997-07-01",
       "endDate": "1998-10-01",
+      "description": "PC technician supporting Lidingö Stad's municipal IT environment, including deployment and help desk support.",
       "worksFor": {
         "@type": "Organization",
         "name": "Lidingö Stad"
-      }
+      },
+      "keywords": []
     },
     {
       "@type": "Role",
       "roleName": "Shop Assistant",
       "startDate": "1986-12-01",
       "endDate": "1995-06-30",
+      "description": "Shop assistant across several Konsum stores, with section responsibility for greens and beverages.",
       "worksFor": {
         "@type": "Organization",
-        "name": "Konsumentföreningen Stockholm"
-      }
+        "name": "Konsum"
+      },
+      "keywords": []
     },
     {
       "@type": "Role",
       "roleName": "Study Circle Leader",
       "startDate": "1994-01-01",
       "endDate": "1994-07-01",
+      "description": "Stand-in study circle leader for a community jazz ensemble program.",
       "worksFor": {
         "@type": "Organization",
         "name": "Sollentuna Jazz Workshop"
-      }
+      },
+      "keywords": []
     },
     {
       "@type": "Role",
       "roleName": "Shop Assistant",
       "startDate": "1992-06-01",
       "endDate": "1992-09-01",
+      "description": "Shop assistant responsible for the greens section and daily store operations at a local grocery retailer.",
       "worksFor": {
         "@type": "Organization",
-        "name": "Kantarellen Livs AB"
-      }
+        "name": "Kantarellen Livs"
+      },
+      "keywords": []
     },
     {
       "@type": "Role",
       "roleName": "Shop Assistant",
       "startDate": "1986-08-01",
       "endDate": "1986-12-31",
+      "description": "First job — shop assistant and pet care duties at a toy, hobby, and pet supply retailer.",
       "worksFor": {
         "@type": "Organization",
         "name": "Karena Zoo, Lek & Hobby"
+      },
+      "keywords": []
+    },
+    {
+      "@type": "Role",
+      "roleName": "",
+      "startDate": "2026-09-03",
+      "description": "Real readings logged by swimmers at their swim spots — not weather forecasts. Log a dip, see the season, find spots nearby.",
+      "worksFor": {
+        "@type": "Project",
+        "name": "Dopp"
+      },
+      "keywords": [
+        {
+          "@type": "DefinedTerm",
+          "name": "AI-assisted development (Claude Code)"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Flutter"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Dart"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Cloudflare Workers"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Cloudflare D1"
+        }
+      ]
+    },
+    {
+      "@type": "Role",
+      "roleName": "",
+      "startDate": "2026-03-01",
+      "endDate": "present",
+      "description": "A developer tool for writing your CV as schema.org JSON-LD and publishing it as a web page, an ATS-friendly PDF and a designed PDF. It has two parts, a CLI for editing the data and a site for hosting your CV. Live at https://semantic.cv",
+      "worksFor": {
+        "@type": "Project",
+        "name": "Semantic-CV"
+      },
+      "keywords": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Durable objects"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Webhooks"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Terraform"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Wrangler"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Nodejs"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Cloudflare Workers"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "R2 object storage"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "TypeScript"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Rest APIs"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Azure Service Bus"
+        }
+      ]
+    },
+    {
+      "@type": "Role",
+      "roleName": "",
+      "startDate": "2026-09-03",
+      "description": "A REST API for useless facts, built in an afternoon with Claude Code. Runs on Cloudflare Workers with a Cloudflare D1 database and is documented with OpenAPI/Swagger. Live at uiaas.becker-consulting.se.",
+      "worksFor": {
+        "@type": "Project",
+        "name": "UIaaS (Useless Information as a Service)"
+      },
+      "keywords": [
+        {
+          "@type": "DefinedTerm",
+          "name": "AI-assisted development (Claude Code)"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Cloudflare Workers"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Cloudflare D1"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "OpenAPI/Swagger"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "TypeScript"
+        }
+      ]
+    },
+    {
+      "@type": "Role",
+      "roleName": "",
+      "startDate": "2025-10-27",
+      "description": "A chat assistant on henrikbecker.net that answers questions about my experience, in the language the question is asked in. Originally built as an ASP.NET Core minimal API on .NET 10 with Semantic Kernel and Azure OpenAI (GPT-4.1), hosted on Azure App Service. It has since been ported to Cloudflare Workers (Python) with Workers AI (Mistral Small 3.1), to cut cost and the number of platforms.",
+      "worksFor": {
+        "@type": "Project",
+        "name": "CV Bot"
+      },
+      "keywords": [
+        {
+          "@type": "DefinedTerm",
+          "name": "C#"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": ".NET 10"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "ASP.NET Core"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Semantic Kernel"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Azure OpenAI (GPT-4.1)"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Azure App Service"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Azure Blob Storage"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Cloudflare Workers"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Workers AI (Mistral Small 3.1)"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Cloudflare KV"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "GitHub Actions"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Web Components"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "AI-assisted development (Claude Code)"
+        }
+      ]
+    }
+  ],
+  "alumniOf": [
+    {
+      "@type": "Role",
+      "description": "Municipal adult education",
+      "startDate": "1995-01-01",
+      "endDate": "1997-01-01",
+      "alumniOf": {
+        "@type": "EducationalOrganization",
+        "name": "Komvux Lidingö"
+      }
+    },
+    {
+      "@type": "Role",
+      "description": "Music",
+      "startDate": "1992-01-01",
+      "endDate": "1993-01-01",
+      "alumniOf": {
+        "@type": "EducationalOrganization",
+        "name": "Kulturama"
+      }
+    }
+  ],
+  "hasCertification": [
+    {
+      "@type": "Certification",
+      "name": "Microsoft Certified: Azure Developer Associate",
+      "certificationIdentification": "H870-1253",
+      "datePublished": "2021-06-24",
+      "url": "https://www.credly.com/badges/f273ba6a-0f57-49f1-8e5e-8f2e5cccf170",
+      "issuedBy": {
+        "@type": "Organization",
+        "name": "Microsoft"
+      }
+    },
+    {
+      "@type": "Certification",
+      "name": "MCSA: Web Applications - Certified 2016",
+      "certificationIdentification": "F812-5689",
+      "datePublished": "2016-09-26",
+      "url": "https://www.credly.com/badges/54c4ab3b-4254-47e3-aabc-fea97f277130",
+      "issuedBy": {
+        "@type": "Organization",
+        "name": "Microsoft"
       }
     }
   ]
