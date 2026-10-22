@@ -1361,8 +1361,7 @@
       "worksFor": {
         "@type": "Organization",
         "name": "Lidingö Stad"
-      },
-      "keywords": []
+      }
     },
     {
       "@type": "Role",
@@ -1373,8 +1372,7 @@
       "worksFor": {
         "@type": "Organization",
         "name": "Konsum"
-      },
-      "keywords": []
+      }
     },
     {
       "@type": "Role",
@@ -1385,8 +1383,7 @@
       "worksFor": {
         "@type": "Organization",
         "name": "Sollentuna Jazz Workshop"
-      },
-      "keywords": []
+      }
     },
     {
       "@type": "Role",
@@ -1397,8 +1394,7 @@
       "worksFor": {
         "@type": "Organization",
         "name": "Kantarellen Livs"
-      },
-      "keywords": []
+      }
     },
     {
       "@type": "Role",
@@ -1409,8 +1405,7 @@
       "worksFor": {
         "@type": "Organization",
         "name": "Karena Zoo, Lek & Hobby"
-      },
-      "keywords": []
+      }
     },
     {
       "@type": "Role",
