@@ -1,4 +1,9 @@
 {
+  "@context": [
+    "https://schema.org",
+    "https://semantic.cv/context/latest.jsonld"
+  ],
+  "@type": "Person",
   "name": "Henrik Becker",
   "givenName": "Henrik",
   "familyName": "Becker",
@@ -21,6 +26,10 @@
     "https://www.linkedin.com/in/prettygoodprogrammer",
     "https://semantic.cv/handiman"
   ],
+  "theme": {
+    "@type": "Theme",
+    "name": "alice"
+  },
   "knowsLanguage": [
     "Swedish",
     "English"
