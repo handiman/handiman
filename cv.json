@@ -44,45 +44,7 @@
       "worksFor": {
         "@type": "Organization",
         "name": "Henrik Becker Consulting AB"
-      },
-      "keywords": [
-        {
-          "@type": "DefinedTerm",
-          "name": "C#"
-        },
-        {
-          "@type": "DefinedTerm",
-          "name": ".NET"
-        },
-        {
-          "@type": "DefinedTerm",
-          "name": "ASP.NET"
-        },
-        {
-          "@type": "DefinedTerm",
-          "name": "GitHub Actions"
-        },
-        {
-          "@type": "DefinedTerm",
-          "name": "Azure API Management"
-        },
-        {
-          "@type": "DefinedTerm",
-          "name": "Cloudflare Workers"
-        },
-        {
-          "@type": "DefinedTerm",
-          "name": "Cloudflare D1"
-        },
-        {
-          "@type": "DefinedTerm",
-          "name": "Cloudflare R2"
-        },
-        {
-          "@type": "DefinedTerm",
-          "name": "Durable Objects"
-        }
-      ]
+      }
     },
     {
       "@type": "Role",
