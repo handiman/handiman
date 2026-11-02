@@ -99,6 +99,14 @@
         },
         {
           "@type": "DefinedTerm",
+          "name": ".NET"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Asp.NET"
+        },
+        {
+          "@type": "DefinedTerm",
           "name": "C#"
         },
         {
@@ -146,6 +154,14 @@
         "name": "Adlibris"
       },
       "keywords": [
+        {
+          "@type": "DefinedTerm",
+          "name": ".NET"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Asp.NET"
+        },
         {
           "@type": "DefinedTerm",
           "name": "C#"
@@ -201,6 +217,14 @@
       "keywords": [
         {
           "@type": "DefinedTerm",
+          "name": ".NET"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Asp.NET"
+        },
+        {
+          "@type": "DefinedTerm",
           "name": "C#"
         },
         {
@@ -250,6 +274,14 @@
       "keywords": [
         {
           "@type": "DefinedTerm",
+          "name": ".NET"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Asp.NET"
+        },
+        {
+          "@type": "DefinedTerm",
           "name": "C#"
         },
         {
@@ -289,6 +321,14 @@
         "name": "Insplanet"
       },
       "keywords": [
+        {
+          "@type": "DefinedTerm",
+          "name": ".NET"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Asp.NET"
+        },
         {
           "@type": "DefinedTerm",
           "name": "C#"
@@ -344,6 +384,14 @@
       "keywords": [
         {
           "@type": "DefinedTerm",
+          "name": ".NET"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Asp.NET"
+        },
+        {
+          "@type": "DefinedTerm",
           "name": "Octopus Deploy"
         },
         {
@@ -387,6 +435,14 @@
         "name": "Svea Ekonomi"
       },
       "keywords": [
+        {
+          "@type": "DefinedTerm",
+          "name": ".NET"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Asp.NET"
+        },
         {
           "@type": "DefinedTerm",
           "name": "C#"
@@ -452,6 +508,14 @@
         "name": "MagineTV"
       },
       "keywords": [
+        {
+          "@type": "DefinedTerm",
+          "name": ".NET"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Asp.NET"
+        },
         {
           "@type": "DefinedTerm",
           "name": "C#"
@@ -559,6 +623,14 @@
       "keywords": [
         {
           "@type": "DefinedTerm",
+          "name": ".NET"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Asp.NET"
+        },
+        {
+          "@type": "DefinedTerm",
           "name": "C#"
         },
         {
@@ -636,6 +708,14 @@
       "keywords": [
         {
           "@type": "DefinedTerm",
+          "name": ".NET"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Asp.NET"
+        },
+        {
+          "@type": "DefinedTerm",
           "name": "VB.NET"
         },
         {
@@ -671,6 +751,14 @@
         "name": "Qbranch Competence Manager (via Qbranch)"
       },
       "keywords": [
+        {
+          "@type": "DefinedTerm",
+          "name": ".NET"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Asp.NET"
+        },
         {
           "@type": "DefinedTerm",
           "name": "Asp.NET MVC"
@@ -724,6 +812,14 @@
         "name": "Wasa Kredit"
       },
       "keywords": [
+        {
+          "@type": "DefinedTerm",
+          "name": ".NET"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Asp.NET"
+        },
         {
           "@type": "DefinedTerm",
           "name": "C#"
@@ -791,6 +887,14 @@
       "keywords": [
         {
           "@type": "DefinedTerm",
+          "name": ".NET"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Asp.NET"
+        },
+        {
+          "@type": "DefinedTerm",
           "name": "Test Driven Development"
         },
         {
@@ -834,6 +938,14 @@
         "name": "CashGuard (via Avega Group)"
       },
       "keywords": [
+        {
+          "@type": "DefinedTerm",
+          "name": ".NET"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Asp.NET"
+        },
         {
           "@type": "DefinedTerm",
           "name": "Specification by Example"
