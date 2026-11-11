@@ -11,15 +11,12 @@
   "description": "Henrik started working with software development in 1999, during the IT boom in Stockholm. He is a senior backend consultant who has worked a lot with system integration, and has used every major version of .NET and ASP.NET, from Web Forms to today's APIs. He focuses on backend development, automation and integration, with clean code built on SOLID principles.",
   "nationality": "Swedish",
   "jobTitle": "Senior .NET Consultant",
-  "telephone": "+46 (0)73 422 83 43",
-  "email": "henrik@becker-consulting.se",
   "address": {
     "@type": "PostalAddress",
     "addressLocality": "Lidingö",
     "addressRegion": "Stockholm",
     "addressCountry": "SE"
   },
-  "birthDate": "1969-06-23",
   "url": "https://www.henrikbecker.net",
   "sameAs": [
     "https://github.com/handiman",
