@@ -1608,7 +1608,7 @@
       "@type": "Role",
       "roleName": "",
       "startDate": "2025-10-27",
-      "description": "A chat assistant on henrikbecker.net that answers questions about my experience, in the language the question is asked in. Originally built as an ASP.NET Core minimal API on .NET 10 with Semantic Kernel and Azure OpenAI (GPT-4.1), hosted on Azure App Service. It has since been ported to Cloudflare Workers (Python) with Workers AI (Mistral Small 3.1), to cut cost and the number of platforms.",
+      "description": "A chat assistant on henrikbecker.net that answers questions about my experience, in the language the question is asked in. First built as an ASP.NET Core minimal API on .NET 10 with Semantic Kernel and Azure OpenAI (GPT-4.1), running in a container on Azure App Service. I later ported it to Cloudflare Workers (Python) with Workers AI (Mistral Small 3.1) for cost reasons.",
       "worksFor": {
         "@type": "Project",
         "name": "CV Bot"
